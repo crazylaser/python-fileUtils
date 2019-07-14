@@ -1,7 +1,7 @@
 # coding=utf-8
 # @Time    : 2017-11-16 13:38
 # @Useage  : fileutils
-# @Author  : czbank
+# @Author  : crazylaser
 # @File    : fileclass.py
 # @Software: PyCharm
 import os, shutil,chardet,zipfile
